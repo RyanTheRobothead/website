@@ -1,0 +1,38 @@
+format: jb-book
+root: index
+chapters:
+  - file: aboutme
+  - file: posts
+    sections:
+      - file: posts/callserviceinros2launch
+      - file: posts/ttrpg/thebandoleers027
+      - file: posts/ttrpg/thebandoleers026
+      - file: posts/ttrpg/introducingdmslog
+      - file: posts/howtowsldocker
+      - file: posts/howtoarduinodocker
+      - file: posts/mck142pro
+      - file: posts/rosworld2020
+      - file: posts/helloworld
+  - file: projects
+    sections:
+      - file: projects/madsci
+      - file: projects/wei
+      - file: projects/website
+      - file: projects/aot_wmr_vis
+      - file: projects/liquidhandling
+      - file: projects/bt_myo_gamepad
+      - file: projects/virtualcanvas
+      - file: projects/graphics
+      - file: projects/iosfinalproject
+      - file: projects/mck142pro
+      - file: projects/nfae
+      - file: projects/nfa
+      - file: projects/dfa
+      - file: projects/niurover
+      - file: projects/dockerfiles
+      - file: projects/sieve
+      - file: projects/startpage
+      - file: projects/configs
+      - file: projects/luckierdodge
+  - file: aboutsite
+  - file: support
