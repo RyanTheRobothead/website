@@ -17,6 +17,7 @@ site:
   template: book-theme
   options:
     favicon: favicon/favicon.ico
+    logo_text: Ryan D. Lewis
   nav:
     - title: About Me
       url: /aboutme
