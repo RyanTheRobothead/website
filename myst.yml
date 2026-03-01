@@ -13,6 +13,7 @@ project:
     - node_modules/**
 
 site:
+  title: Ryan D. Lewis
   template: book-theme
   options:
     favicon: favicon/favicon.ico
