@@ -4,9 +4,8 @@ title: ▶ Start-Page
 projecturl: https://github.com/LuckierDodge/Start-Page
 description: "A simple landing page for chrome browsers."
 date: 2016-12-04
-layout: projectlayout.njk
 ---
 
-Project Link: [{{projecturl}}]({{projecturl}})
+Project Link: [https://github.com/LuckierDodge/Start-Page](https://github.com/LuckierDodge/Start-Page)
 
-Description: _{{ description }}_
+Description: _A simple landing page for chrome browsers._

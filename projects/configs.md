@@ -4,9 +4,8 @@ title: ⚙ configs
 projecturl: https://github.com/LuckierDodge/configs
 description: "A GitHub repo that contains the dotfiles I use across most of the linux machines I use."
 date: 2015-10-16
-layout: projectlayout.njk
 ---
 
-Project Link: [{{projecturl}}]({{projecturl}})
+Project Link: [https://github.com/LuckierDodge/configs](https://github.com/LuckierDodge/configs)
 
-Description: _{{ description }}_
+Description: _A GitHub repo that contains the dotfiles I use across most of the linux machines I use._

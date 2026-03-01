@@ -4,12 +4,11 @@ title: 💪 BT_Myographic_Gamepad
 projecturl: https://github.com/LuckierDodge/BT_Myographic_Gamepad
 description: "Simple Arduino Code powering a muscle sensing gamepad controller."
 date: 2018-12-05
-layout: projectlayout.njk
 ---
 
-Project Link: [{{projecturl}}]({{projecturl}})
+Project Link: [https://github.com/LuckierDodge/BT_Myographic_Gamepad](https://github.com/LuckierDodge/BT_Myographic_Gamepad)
 
-Description: _{{ description }}_
+Description: _Simple Arduino Code powering a muscle sensing gamepad controller._
 
 This little project is part of work I did in the ddiLab as an Undergrad for a semester while being funded by a grant from NIU's PROMISE Scholar's program. Essentially I was exploring different ways of interacting with VR, and one of the things I thought of was a "gamepad" driven by Myographic Muscle Sensors.
 

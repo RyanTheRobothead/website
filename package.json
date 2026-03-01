@@ -1,31 +1,5 @@
 {
-  "name": "website",
-  "version": "1.0.0",
-  "description": "My personal website",
-  "main": "index.js",
-  "scripts": {
-    "serve": "eleventy --serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LuckierDodge/website.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LuckierDodge/website/issues"
-  },
-  "homepage": "https://github.com/LuckierDodge/website#readme",
   "dependencies": {
-    "clean-css": "^5.2.2",
-    "@11ty/eleventy": "^3.0.0",
-    "@11ty/eleventy-plugin-rss": "^2.0.0",
-    "eleventy-plugin-footnotes": "^0.10.0",
-    "markdown-it": "^12.2.0",
-    "markdown-it-anchor": "^8.4.1",
-    "markdown-it-footnote": "^3.0.3",
-    "nord": "^0.2.1"
+    "mystmd": "^1.8.1"
   }
 }

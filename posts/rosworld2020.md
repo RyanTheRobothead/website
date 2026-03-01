@@ -1,12 +1,15 @@
 ---
 title: Personal Notes from ROS World 2020
-layout: devlayout.njk
 date: 2020-11-12
 externalurl: "https://dev.to/luckierdodge/personal-notes-from-ros-world-2020-2e04"
 description: "I attended the Robotic Operating System's [ROS World 2020](https://roscon.ros.org/world/2020/) convention today. I quite enjoyed it! To keep myself focused during the event, I tried to write some comprehensive notes. To keep myself entertained, I wrote them as if somebody else would be reading them."
-headerimage: "https://roscon.ros.org/world/2020/img/ROSWorld2020.png"
 tags: [dev, post, feed]
 ---
+
+:::{image} https://roscon.ros.org/world/2020/img/ROSWorld2020.png
+:width: 80%
+:align: center
+:::
 
 > _Update: You can find all of the videos from ROS World 2020 [here](https://vimeo.com/showcase/rosworld2020)._
 
@@ -126,11 +129,9 @@ But it occurred to me that someone else might find these useful in some way, esp
 
 * Stream wasn't loading, so whatever occurred at the beginning is a mystery to me 😒
 
-<div class="image">
-
-!["LET ME INNNNNNNNN"](https://dev-to-uploads.s3.amazonaws.com/i/7rthdv3daux0dnu4k58m.gif#responsiveimage)
-
-</div>
+:::{image} https://dev-to-uploads.s3.amazonaws.com/i/7rthdv3daux0dnu4k58m.gif
+:width: 80%
+:::
 
 * Got in, 20 minutes late
 * Sarah Osentoski (Moderator), SVP Iron OX; Michele Pratusevich, Direcotr of Software Development, Root AI; Lee Redden, Chief Scientist, Blue River Technology; Eitan Babcock, Chief Roboticist/Cofounder, American Robotics

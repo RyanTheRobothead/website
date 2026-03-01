@@ -1,12 +1,14 @@
 ---
-layout: dmsloglayout.njk
 title: "The Bandoleers Session 026"
 date: 2022-05-18
-externalurl: ""
 description: "In which the Bandoleers begin their journey to the Westerwatch."
-headerimage: "/assets/images/ttrpg/Voxel-Ryan-DM.png"
 tags: [post, feed, dms_log]
 ---
+
+:::{image} /assets/images/ttrpg/Voxel-Ryan-DM.png
+:width: 80%
+:align: center
+:::
 
 ## DM's Log: Supplemental...Session 026
 
@@ -28,7 +30,7 @@ _Date: 2022-05-12_
 
 ### Session 026 Recap
 
-In this session, The Bandoleers began their 3-day journey to the Westerwatch, a small keep nestled in the mountains west of the city of Dmittlock {% include footnote, num: 1, text: "The city the party has been calling home for the majority of the campaign." %} that recently stopped sending reports. They were joined by a cleric, Melisende, of the local deity Aelys.{% include footnote, num: 2, text: "They had requested Melisende's presence as part of their deal to look into the problem (plague outbreaks have been cropping up in the region, so the party wanted to have a healer on hand)." %}
+In this session, The Bandoleers began their 3-day journey to the Westerwatch, a small keep nestled in the mountains west of the city of Dmittlock [^1] that recently stopped sending reports. They were joined by a cleric, Melisende, of the local deity Aelys.[^2]
 
 The route to the Westerwatch is along a fairly well-traveled and "safe" road, and so their first day of travel passed without incident. As nightfall approached, they reached a small hamlet, where they decided to try and find a place to stay. And so they made the acquaintance of an old one-legged Rock Gnome named Igden Umbodoben, who was sitting on his porch and enjoying the fresh air.
 
@@ -40,9 +42,9 @@ After an evening's rest safely in the barn, the second day of the journey brough
 
 With no civilization in sight this time at the end of the day, the party decided to take their wagon off the side of the road ("31 feet", per Kilomir's player's request). At this point, the party has learned to keep a watch, and so Ollie was dutifully patrolling around the wagon when he heard ominous moaning coming from down the road.
 
-Peering out into the darkness with his Tiefling Dark Vision, Ollie was able to detect a small group of figures shambling up the road. After waiting a beat to see what they did and realizing that they were getting closer and closer, he decided to wake the others. Unfortunately, his attempt to do so quietly was foiled when he rolled in the single digits on a Stealth check, and as a result was given away by a _very_ squeaky hinge on the wagon's door.{% include footnote, num: 3, text: "At least this had the benefit of waking the rest of the party." %}
+Peering out into the darkness with his Tiefling Dark Vision, Ollie was able to detect a small group of figures shambling up the road. After waiting a beat to see what they did and realizing that they were getting closer and closer, he decided to wake the others. Unfortunately, his attempt to do so quietly was foiled when he rolled in the single digits on a Stealth check, and as a result was given away by a _very_ squeaky hinge on the wagon's door.[^3]
 
-As soon as the figures heard Ollie's racket, they froze. The party gathered and readied themselves, and, as the unidentified group began moving again, Faegwyn's sharp elvish eyes (and high perception roll) immediately identified the shuffling gait of wretched Undead. With a cry to alert the others, initiative was rolled as the Zombies charged in!{% include footnote, num: 4, text: "'Charge' is relative, zombie's speed being what it is." %}
+As soon as the figures heard Ollie's racket, they froze. The party gathered and readied themselves, and, as the unidentified group began moving again, Faegwyn's sharp elvish eyes (and high perception roll) immediately identified the shuffling gait of wretched Undead. With a cry to alert the others, initiative was rolled as the Zombies charged in![^4]
 
 The battle was chaotic but not necessarily difficult for the party. Ollie, Mick, and Kilomir charged to the fore, while Melisende and Faegwyn stayed back by the wagon. As it transpired, the _12 zombies_ were joined by a Wight, who hung back and attempted (mostly unsuccessfully) to pepper Faegwyn with his longbow. The frontliners were able to clean up the Zombies without too much damage (Kilomir and Ollie came out entirely unscathed), and then chased down and dispatched the Wight when it attempted to flee.
 
@@ -50,7 +52,7 @@ And that's where we'll pick up next session!
 
 ## DM's Post Mortem
 
-Alright, so this session was...interesting...to try and run, because I made the mistake of trying to do it while sick.{% include footnote, num: 5, text: "Some sort of respiratory bug. Tests say not COVID, but who can say at this point. Either way, we play over discord, so no players were at risk of IRL plague from the session." %} This meant that the session 1.) was shorter than I'd hoped, 2.) took me longer to prepare than usual, and 3.) was probably not my best work. I was determined to run, regardless of how miserable I felt, because scheduling is hard and it had already been awhile since our previous session and I didn't want to postpone again. But by the end of the night I was practically a zombie myself, and as soon as the Wight's HP hit 0 I was out.
+Alright, so this session was...interesting...to try and run, because I made the mistake of trying to do it while sick.[^5] This meant that the session 1.) was shorter than I'd hoped, 2.) took me longer to prepare than usual, and 3.) was probably not my best work. I was determined to run, regardless of how miserable I felt, because scheduling is hard and it had already been awhile since our previous session and I didn't want to postpone again. But by the end of the night I was practically a zombie myself, and as soon as the Wight's HP hit 0 I was out.
 
 But I did still get the opportunity to try some stuff I've been wanting to work in to the campaign, so let's talk about those things.
 
@@ -83,4 +85,8 @@ I did find the mechanics around spell saves unintuitive enough that I had to sto
 
 Maybe not my best session, but the players seemed to have fun and I got to try out some fun MCDM goodies I've been meaning to find an excuse to use. And hey, at least I can blame any problems that came up during the session on illness.
 
-{% footnotes %}
+[^1]: The city the party has been calling home for the majority of the campaign.
+[^2]: They had requested Melisende's presence as part of their deal to look into the problem (plague outbreaks have been cropping up in the region, so the party wanted to have a healer on hand).
+[^3]: At least this had the benefit of waking the rest of the party.
+[^4]: 'Charge' is relative, zombie's speed being what it is.
+[^5]: Some sort of respiratory bug. Tests say not COVID, but who can say at this point. Either way, we play over discord, so no players were at risk of IRL plague from the session.

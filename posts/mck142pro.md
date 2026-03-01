@@ -1,12 +1,15 @@
 ---
-layout: postlayout.njk
 title: Extending an Old-school Programmable Keyboard with AutoHotKey
 date: 2021-02-23
 externalurl: "https://dev.to/luckierdodge/extending-an-old-school-programmable-keyboard-with-autohotkey-31fb-temp-slug-3842210?preview=afe4ec4a7ab6763b3713f9f19654cbe4b93fb10d89eee861c2c396998cdc8873ff3a6731808f09d8768b34fb92b4986af38d71bf4f53607a6964b1ee"
 description: "In this adventure, I explore the possibilities presented by an old-school programmable keyboard from the 90s, unearthed at a thrift store, and how it can still be useful and productive in the 2020's."
-headerimage: /assets/images/mck142pro/box.jpg
 tags: [Adventures_in_Tech, post, feed]
 ---
+
+:::{image} /assets/images/mck142pro/box.jpg
+:width: 80%
+:align: center
+:::
 
 ## So it Begins...
 
@@ -45,11 +48,9 @@ Notably, it does not feature a Windows Key, because it wasn't really intended fo
 The keyboard itself very much reminds me of the old Gateway family PC we had when I was growing up, with the same solid square body, weighty heft, and lightly textured beige ABS with gray accents.
 I've never had too much nostalgia for that era of computing (I mostly remember that PC for being slow, noisy, and prone to crashes), but it's well-built, if nothing else.
 
-<div class="image">
-
-![The MCK142Pro Keyboard and Manual, sitting on a desk.](/assets/images/mck142pro/keyboard.jpg#responsiveimage)
-
-</div>
+:::{image} /assets/images/mck142pro/keyboard.jpg
+:width: 80%
+:::
 
 ## Programming the Programmable Keyboard
 
@@ -200,11 +201,9 @@ return
 Which sends an HTTP request to the wonderful [wttr.in](https://wttr.in) weather API, and displays the results in a helpful dialog.
 I won't bore you with the details of how it works, but I think it's a simple example of some of the powerful potential here: anything I can hook up to an API endpoint, I can run with the press of a button.
 
-<div class="image">
-
-![The Weather popup that I see when I press PF3, complete with adorable ASCII art.](/assets/images/mck142pro/weather-dialog.png#responsiveimage)
-
-</div>
+:::{image} /assets/images/mck142pro/weather-dialog.png
+:width: 80%
+:::
 
 ## Denouement
 

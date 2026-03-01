@@ -1,25 +1,13 @@
 ---
-layout: pagelayout.njk
 title: 🤝 About Me
 description: "A little bit about who I am, what I've done, and all that jazz."
 ---
 
-{% capture newline %}
-{% endcapture %}
-{% capture space %} {% endcapture %}
-
 A little introduction to who I am, what I've done, and all that jazz.
 
-
-
-<div class="responsive_wrapper">
-<div class="responsive_multi modal column2">
-<div class="column2 image super-center">
-
-![Logo for University of Michigan](/assets/images/Michigan_Logo.png#responsivemedium)
-
-</div>
-<div class="column2">
+:::{image} /assets/images/Michigan_Logo.png
+:width: 250px
+:::
 
 ## University of Michigan
 
@@ -28,15 +16,9 @@ A little introduction to who I am, what I've done, and all that jazz.
 * **Robotics**
 * 2023
 
-</div>
-</div>
-<div class="responsive_multi modal column2">
-<div class="column2 image super-center">
-
-![Logo for Northern Illinois University](/assets/images/NIU_Logo.png#responsivemedium)
-
-</div>
-<div class="column2">
+:::{image} /assets/images/NIU_Logo.png
+:width: 250px
+:::
 
 ## Northern Illinois University
 
@@ -52,14 +34,6 @@ A little introduction to who I am, what I've done, and all that jazz.
 * **Mathematics**, Emphasis: Computational Mathematics
 * **Mobile Programming Certificate**
 * 2019
-
-</div>
-</div>
-</div>
-
-
-<div class="responsive_multi">
-<div class="column2 modal">
 
 ## 🏢 Internships and Work Experience
 
@@ -93,9 +67,6 @@ A winding path to figuring out what I want to be when I grow up, chronicled.
 
 - Started as a Robotics and Software Engineer at Argonne National Laboratory's [Rapid Prototyping Lab](https://rpl.cels.anl.gov/) in September of 2023.
 
-</div>
-<div class="column2 modal">
-
 ## 🔬 Research Career
 
 ### Undergrad @ NIU
@@ -112,12 +83,6 @@ A winding path to figuring out what I want to be when I grow up, chronicled.
 * 2 years in Argonne's CELS directorate working on Self-Directing Laboratories and Autonomous Discovery, first as an independent study project and then as a visiting student and research aide.
 
 
-</div>
-</div>
-
-<div class="responsive_multi">
-<div class="column2 modal">
-
 ## 🏓 Extracurriculars
 
 What I did at school while I wasn't studying.
@@ -129,9 +94,6 @@ What I did at school while I wasn't studying.
 * Member of the Lambda Sigma National Sophomore Honors Society.
 * Four years as the Lead Programmer for NIU's Mars Rover Team, one of which I was also the Team President for.
 * Occasional consultant of the NIU Robotics Team
-
-</div>
-<div class="column2 modal">
 
 ## 🧡 Life
 
@@ -145,6 +107,3 @@ Ya know, that thing that I definitely have.
 * 📝 Writer and Tabletop RPG Enthusiast
 * 🎧 Podcast and Music Listener
 * 📚 Reader
-
-</div>
-</div>

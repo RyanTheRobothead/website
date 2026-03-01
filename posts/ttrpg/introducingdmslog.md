@@ -1,12 +1,14 @@
 ---
-layout: dmsloglayout.njk
 title: "Introducing DM's Log: Supplemental"
 date: 2022-05-05
-externalurl: ""
 description: "A quick introduction to a new series I'm starting, recounting my adventures DMing D&D games for friends."
-headerimage: "/assets/images/ttrpg/Voxel-Ryan-DM.png"
 tags: [post, feed, dms_log]
 ---
+
+:::{image} /assets/images/ttrpg/Voxel-Ryan-DM.png
+:width: 80%
+:align: center
+:::
 
 > ## DM's Log: Supplemental
 >

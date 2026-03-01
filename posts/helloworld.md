@@ -1,12 +1,15 @@
 ---
-layout: devlayout.njk
 title: A (Belated) Hello World!
 date: 2020-06-23
 externalurl: "https://dev.to/luckierdodge/a-belated-hello-world-mjl"
 description: "👋 Hey Everyone! My name is Ryan D. Lewis, and I'm...not exactly new around here, but this is my first post! So allow me to introduce myself."
-headerimage: "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F1c7s0qv33risbrmp2nrs.png"
 tags: [dev, post, feed]
 ---
+
+:::{image} https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F1c7s0qv33risbrmp2nrs.png
+:width: 80%
+:align: center
+:::
 
 # 👋 Hey Everyone!
 
@@ -60,11 +63,9 @@ In no particular order:
 
 If you've made it this far, thanks for playing along! As a reward, here's a picture of my roommate's kitten sitting on my 3D Printer:
 
-<div class="image">
-
-![Kitten on a 3D Printer](https://dev-to-uploads.s3.amazonaws.com/i/x43z7fpsjj6khwx52pzd.jpg#responsiveimage)
-
-</div>
+:::{image} https://dev-to-uploads.s3.amazonaws.com/i/x43z7fpsjj6khwx52pzd.jpg
+:width: 80%
+:::
 
 Long story short: Hello World! I'm hoping to spend some more time hanging out here and adding my thoughts to the community. Feel free to leave a comment and say hello, ask a question, or recommend your favorite Static Site Generator/hosting solution for personal sites!
 

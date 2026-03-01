@@ -1,0 +1,30 @@
+version: 1
+project:
+  title: Ryan D. Lewis
+  description: "The humble internet home of Ryan D. Lewis, general Technomancer and well-rounded nerd."
+  plugins:
+    - type: executable
+      path: plugins/blog_listing.py
+  exclude:
+    - README.md
+    - CLAUDE.md
+    - plugins/**
+    - .venv/**
+    - node_modules/**
+
+site:
+  template: book-theme
+  options:
+    favicon: favicon/favicon.ico
+  nav:
+    - title: About Me
+      url: /aboutme
+    - title: Posts
+      url: /posts
+    - title: Projects
+      url: /projects
+    - title: Support
+      url: /support
+  actions:
+    - title: RSS Feed
+      url: /feed.xml

@@ -1,0 +1,22 @@
+[project]
+name = "website"
+version = "0.1.0"
+description = "ryandlewis.dev — personal website build scripts"
+authors = [
+    {name = "Ryan Lewis", email = "accounts+github@ryandlewis.dev"},
+]
+dependencies = [
+    "pyyaml>=6.0.3",
+    "feedgen>=1.0.0",
+]
+requires-python = ">=3.13"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.scripts]
+rss = "python plugins/rss_gen.py"
+build = {composite = ["myst build --html", "rss"]}

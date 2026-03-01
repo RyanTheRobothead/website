@@ -1,12 +1,15 @@
 ---
-layout: devlayout.njk
 title: How to Communicate with an Arduino from Docker
 date: 2021-03-14
 externalurl: "https://dev.to/luckierdodge/how-to-communicate-with-an-arduino-from-docker-3fo7"
 description: "A quick tech tip for communicating with Arduino-based microcontrollers from applications running in Docker containers."
-headerimage: "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ei52k2optp8x8dp8cz75.png"
 tags: [dev, post, quick_tech_tips, feed]
 ---
+
+:::{image} https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ei52k2optp8x8dp8cz75.png
+:width: 80%
+:align: center
+:::
 
 Something I learned this weekend. Let's say you have an Arduino, and you want to communicate with it via serial from a Linux device, like a Jetson Nano. But not from that device's host operating system. No, that'd be too easy.
 

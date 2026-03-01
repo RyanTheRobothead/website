@@ -1,12 +1,15 @@
 ---
-layout: devlayout.njk
 title: How to Call a Service from a ROS2 Launch File
 externalurl: https://dev.to/luckierdodge/how-to-call-a-service-from-a-ros2-launch-file-4l7p
 date: 2022-09-03
 description: "A quick tech tip for calling a service from within a ROS2 Launch File."
-headerimage: https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg
 tags: [dev, post, quick_tech_tips, feed, ros2, robotics]
 ---
+
+:::{image} https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg
+:width: 250px
+:align: center
+:::
 
 This one is pretty straight forward, but took me a non-trivial amount of searching to find for myself. To call a ros2 service from a ros2 launch file, add the following to your launch file (see [the official docs](https://docs.ros.org/en/humble/Tutorials/Intermediate/Launch/Creating-Launch-Files.html) for more on launch files):
 
