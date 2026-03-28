@@ -1,5 +1,5 @@
 ---
-title: 🤝 About Me
+title: About Me
 description: "A little bit about who I am, what I've done, and all that jazz."
 ---
 
@@ -35,7 +35,7 @@ A little introduction to who I am, what I've done, and all that jazz.
 * **Mobile Programming Certificate**
 * 2019
 
-## 🏢 Internships and Work Experience
+## Internships and Work Experience
 
 A winding path to figuring out what I want to be when I grow up, chronicled.
 
@@ -67,7 +67,7 @@ A winding path to figuring out what I want to be when I grow up, chronicled.
 
 - Started as a Robotics and Software Engineer at Argonne National Laboratory's [Rapid Prototyping Lab](https://rpl.cels.anl.gov/) in September of 2023.
 
-## 🔬 Research Career
+## Research Career
 
 ### Undergrad @ NIU
 
@@ -83,7 +83,7 @@ A winding path to figuring out what I want to be when I grow up, chronicled.
 * 2 years in Argonne's CELS directorate working on Self-Directing Laboratories and Autonomous Discovery, first as an independent study project and then as a visiting student and research aide.
 
 
-## 🏓 Extracurriculars
+## Extracurriculars
 
 What I did at school while I wasn't studying.
 
@@ -95,7 +95,7 @@ What I did at school while I wasn't studying.
 * Four years as the Lead Programmer for NIU's Mars Rover Team, one of which I was also the Team President for.
 * Occasional consultant of the NIU Robotics Team
 
-## 🧡 Life
+## Life
 
 Ya know, that thing that I definitely have.
 
